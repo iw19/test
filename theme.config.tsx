@@ -2,7 +2,7 @@ import React from "react"
 import { DocsThemeConfig } from "nextra-theme-docs"
 
 const config: DocsThemeConfig = {
-    logo: <span>Vscode 群文档</span>,
+    logo: <span>妮可 VS Code 群文档</span>,
     project: {
         link: "https://github.com/iw17/vscode",
     },
